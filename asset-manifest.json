@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.cd5af194.chunk.css",
+    "main.js": "/ReactApp/static/js/main.45221b1e.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.45221b1e.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.0f4ebe36.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.0f4ebe36.js.map",
+    "static/css/2.8757ddda.chunk.css": "/ReactApp/static/css/2.8757ddda.chunk.css",
+    "static/js/2.4cbe88a5.chunk.js": "/ReactApp/static/js/2.4cbe88a5.chunk.js",
+    "static/js/2.4cbe88a5.chunk.js.map": "/ReactApp/static/js/2.4cbe88a5.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "static/css/2.8757ddda.chunk.css.map": "/ReactApp/static/css/2.8757ddda.chunk.css.map",
+    "static/css/main.cd5af194.chunk.css.map": "/ReactApp/static/css/main.cd5af194.chunk.css.map",
+    "static/js/2.4cbe88a5.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.4cbe88a5.chunk.js.LICENSE.txt",
+    "static/media/royal-bawarchi-1.2abbe2c8.jpg": "/ReactApp/static/media/royal-bawarchi-1.2abbe2c8.jpg",
+    "static/media/royal-bawarchi-2.8ba404cf.jpg": "/ReactApp/static/media/royal-bawarchi-2.8ba404cf.jpg",
+    "static/media/royal-bawarchi.b0779af1.png": "/ReactApp/static/media/royal-bawarchi.b0779af1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f4ebe36.js",
+    "static/css/2.8757ddda.chunk.css",
+    "static/js/2.4cbe88a5.chunk.js",
+    "static/css/main.cd5af194.chunk.css",
+    "static/js/main.45221b1e.chunk.js"
+  ]
+}
